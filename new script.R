@@ -7,3 +7,4 @@ subtract <- function(a,b){
   res <- a - b
   return(res)
 }
+subtract(8,11)
