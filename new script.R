@@ -8,3 +8,4 @@ subtract <- function(a,b){
   return(res)
 }
 subtract(8,11)
+sum(5,6)
